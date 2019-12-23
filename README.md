@@ -1,6 +1,5 @@
 # Employee Attrition Identification 
-##### Problem Statement: A large company named ABC, employs, at any given point of time,around 4000 employees. However, every year, around 15% of its employees leave the company and the company needs to be replace them with the talent pool available in the job market. The management believes that this level of attrition (employees leaving, either on their own
-or because they got fired) is bad for the company, because of the following reasons : -
+##### Problem Statement: A large company named ABC, employs, at any given point of time,around 4000 employees. However, every year, around 15% of its employees leave the company and the company needs to be replace them with the talent pool available in the job market. The management believes that this level of attrition (employees leaving, either on their own or because they got fired) is bad for the company, because of the following reasons :
 
   - 1. The former employees projects get delayed, making it difficult to meet timelines, re-sulting in a loss of reputation among clients and partners.
 
